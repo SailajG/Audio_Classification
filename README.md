@@ -1,4 +1,4 @@
-# Audio_Classification
+# Audio Classification
 
 - Audio classification by implementing a machine learning pipeline
 using MLEnd Hums and Whistles dataset. Collected and cleaned the
